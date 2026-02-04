@@ -1,10 +1,10 @@
 site_name: סמינר מדעי המוח א'
 site_description: סיכום מקיף לסמינר מדעי המוח א', אוניברסיטת תל אביב
 docs_dir: docs
-site_url: https://orinlevi.github.io/seminar_neuroscience_notes/
+site_url: https://orinlevi-neurocspsy.github.io/Seminar_Neuroscience/
 
-repo_name: seminar_neuroscience_notes
-repo_url: https://github.com/orinlevi/seminar_neuroscience_notes
+repo_name: OrinLevi-NeuroCSpsy/Seminar_Neuroscience
+repo_url: https://github.com/OrinLevi-NeuroCSpsy/Seminar_Neuroscience
 
 extra_css:
   - stylesheets/extra.css
@@ -12,7 +12,7 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/orinlevi/seminar_neuroscience_notes
+      link: https://github.com/OrinLevi-NeuroCSpsy/Seminar_Neuroscience
 
 theme:
   logo: assets/logo.png

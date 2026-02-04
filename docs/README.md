@@ -103,7 +103,7 @@ $$V_m = \frac{RT}{F} \ln\left(\frac{P_{Na}[Na^+]_{out} + P_K[K^+]_{out} + P_{Cl}
 ## 🔗 קישורים שימושיים
 
 - [אתר הקורס](https://www.tau.ac.il)
-- [GitHub Repository](https://github.com/orinlevi/seminar_neuroscience_notes)
+- [GitHub Repository](https://github.com/OrinLevi-NeuroCSpsy/Seminar_Neuroscience)
 
 ---
 
